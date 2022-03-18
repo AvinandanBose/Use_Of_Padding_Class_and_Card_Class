@@ -1,6 +1,6 @@
 # Use_Of_Card_And_Padding_Class
 
-A new Flutter project.
+A new Flutter project. Use of Padding Class(Widget) and Card Class (Widget)
 
 ## Getting Started
 
